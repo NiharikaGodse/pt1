@@ -1,0 +1,62 @@
+.heading{
+    margin: 10px;
+    width: 30%;
+    border-radius: 200px;
+    border: solid 15px rgb(2, 255, 2);
+}
+
+h1{
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.787);
+}
+
+.note{
+    font-size: 25px;
+    color: black;
+    padding: 15px;
+    font-weight: 900;
+    background-color: rgba(255, 255, 255, 0.829);
+    border: solid 10px rgb(0, 153, 255);
+    border-radius: 20px;
+    margin: 10px;
+}
+
+body{
+    background-size: unset;
+    font-family: bradley hand;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+}
+
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.btn{
+    width: fit-content;
+    font-size: 200%;
+    background-color: chartreuse;
+    border: solid 5px;
+}
